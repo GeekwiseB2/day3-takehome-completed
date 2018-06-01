@@ -1,0 +1,23 @@
+.header-container {
+    background:#eeeeee;
+    padding-top:60px;
+    padding-bottom:60px;
+}
+
+.body-container {
+    padding-top:60px;
+    padding-bottom:60px;
+}
+
+.item {
+    padding:40px;
+    background:#eeeeee;
+    margin-bottom:20px;
+}
+
+.footer-container {
+    padding-top:60px;
+    padding-bottom:60px;
+    background:#222222;
+    color:#ffffff;
+}
